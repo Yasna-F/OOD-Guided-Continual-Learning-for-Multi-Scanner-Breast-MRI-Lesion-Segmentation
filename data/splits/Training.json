@@ -1,0 +1,2974 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1100/ispy1_1100_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1100.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1051/ispy1_1051_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1051.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1207/ispy1_1207_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1207.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1021/ispy1_1021_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1021.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1069/ispy1_1069_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1069.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1132/ispy1_1132_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1132.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1010/ispy1_1010_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1010.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1171/ispy1_1171_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1171.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_62/nact_62_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_62.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_59/nact_59_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_59.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_46/nact_46_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_46.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_48/nact_48_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_48.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_28/nact_28_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_28.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_42/nact_42_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_42.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_07/nact_07_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_07.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_45/nact_45_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_45.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_377/duke_377_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_377.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_573/duke_573_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_573.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_444/duke_444_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_444.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_765/duke_765_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_765.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_636/duke_636_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_636.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_592/duke_592_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_592.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_387/duke_387_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_387.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_228/duke_228_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_228.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_236/duke_236_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_236.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_414/duke_414_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_414.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_148/duke_148_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_148.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_609/duke_609_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_609.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_105/duke_105_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_105.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_424/duke_424_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_424.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_834/duke_834_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_834.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_408/duke_408_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_408.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_244/duke_244_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_244.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_890372/ispy2_890372_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_890372.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_847753/ispy2_847753_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_847753.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_165925/ispy2_165925_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_165925.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_955035/ispy2_955035_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_955035.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_531988/ispy2_531988_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_531988.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_613961/ispy2_613961_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_613961.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_567201/ispy2_567201_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_567201.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_845783/ispy2_845783_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_845783.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_830958/ispy2_830958_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_830958.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_490805/ispy2_490805_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_490805.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_500826/ispy2_500826_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_500826.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_361701/ispy2_361701_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_361701.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_896852/ispy2_896852_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_896852.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_720065/ispy2_720065_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_720065.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_797427/ispy2_797427_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_797427.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_635632/ispy2_635632_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_635632.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_655128/ispy2_655128_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_655128.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_524170/ispy2_524170_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_524170.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_666450/ispy2_666450_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_666450.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_316996/ispy2_316996_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_316996.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_654021/ispy2_654021_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_654021.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_225836/ispy2_225836_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_225836.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_792181/ispy2_792181_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_792181.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_425173/ispy2_425173_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_425173.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_913225/ispy2_913225_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_913225.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_287300/ispy2_287300_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_287300.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_819622/ispy2_819622_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_819622.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_660534/ispy2_660534_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_660534.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_451816/ispy2_451816_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_451816.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_605713/ispy2_605713_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_605713.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_580632/ispy2_580632_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_580632.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_142688/ispy2_142688_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_142688.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_691753/ispy2_691753_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_691753.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_414256/ispy2_414256_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_414256.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_356431/ispy2_356431_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_356431.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_311455/ispy2_311455_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_311455.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_287961/ispy2_287961_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_287961.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_262131/ispy2_262131_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_262131.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_804979/ispy2_804979_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_804979.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_111881/ispy2_111881_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_111881.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_201831/ispy2_201831_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_201831.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_166412/ispy2_166412_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_166412.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_889049/ispy2_889049_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_889049.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_831702/ispy2_831702_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_831702.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_568331/ispy2_568331_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_568331.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_520986/ispy2_520986_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_520986.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_374106/ispy2_374106_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_374106.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_517870/ispy2_517870_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_517870.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_567907/ispy2_567907_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_567907.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_654064/ispy2_654064_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_654064.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_735673/ispy2_735673_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_735673.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_177795/ispy2_177795_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_177795.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_454808/ispy2_454808_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_454808.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_663467/ispy2_663467_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_663467.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_329941/ispy2_329941_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_329941.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_535569/ispy2_535569_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_535569.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_802778/ispy2_802778_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_802778.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_240/duke_240_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_240.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_530/duke_530_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_530.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_774/duke_774_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_774.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_178/duke_178_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_178.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_751/duke_751_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_751.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_009/duke_009_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_009.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_287/duke_287_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_287.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_684/duke_684_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_684.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 0,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_412/duke_412_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_412.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1070/ispy1_1070_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1070.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1226/ispy1_1226_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1226.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1032/ispy1_1032_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1032.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1216/ispy1_1216_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1216.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1137/ispy1_1137_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1137.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1013/ispy1_1013_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1013.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1036/ispy1_1036_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1036.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1029/ispy1_1029_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1029.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_29/nact_29_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_29.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_49/nact_49_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_49.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_20/nact_20_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_20.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_23/nact_23_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_23.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_19/nact_19_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_19.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_11/nact_11_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_11.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_21/nact_21_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_21.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_17/nact_17_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_17.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_33/nact_33_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_33.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_491/duke_491_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_491.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_285/duke_285_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_285.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_831/duke_831_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_831.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_185/duke_185_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_185.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_882/duke_882_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_882.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_435/duke_435_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_435.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_378/duke_378_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_378.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_723/duke_723_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_723.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_260/duke_260_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_260.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_136/duke_136_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_136.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_099/duke_099_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_099.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_383/duke_383_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_383.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_400/duke_400_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_400.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_032/duke_032_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_032.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_218/duke_218_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_218.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_640/duke_640_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_640.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_652/duke_652_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_652.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_690089/ispy2_690089_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_690089.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_987914/ispy2_987914_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_987914.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_128675/ispy2_128675_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_128675.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_924071/ispy2_924071_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_924071.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_196064/ispy2_196064_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_196064.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_218503/ispy2_218503_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_218503.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_963604/ispy2_963604_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_963604.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_631299/ispy2_631299_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_631299.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_580541/ispy2_580541_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_580541.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_899692/ispy2_899692_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_899692.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_280375/ispy2_280375_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_280375.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_263143/ispy2_263143_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_263143.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_413211/ispy2_413211_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_413211.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_573605/ispy2_573605_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_573605.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_179568/ispy2_179568_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_179568.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_240957/ispy2_240957_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_240957.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_916645/ispy2_916645_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_916645.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_498024/ispy2_498024_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_498024.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_753109/ispy2_753109_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_753109.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_146987/ispy2_146987_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_146987.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_380972/ispy2_380972_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_380972.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_275626/ispy2_275626_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_275626.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_345907/ispy2_345907_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_345907.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_836114/ispy2_836114_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_836114.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_775346/ispy2_775346_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_775346.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_706639/ispy2_706639_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_706639.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_494296/ispy2_494296_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_494296.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_609151/ispy2_609151_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_609151.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_109623/ispy2_109623_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_109623.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_329076/ispy2_329076_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_329076.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_635862/ispy2_635862_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_635862.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_920479/ispy2_920479_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_920479.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_553141/ispy2_553141_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_553141.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_429220/ispy2_429220_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_429220.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_963303/ispy2_963303_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_963303.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_478484/ispy2_478484_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_478484.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_749097/ispy2_749097_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_749097.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_155171/ispy2_155171_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_155171.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_277888/ispy2_277888_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_277888.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_460642/ispy2_460642_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_460642.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_570380/ispy2_570380_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_570380.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_362993/ispy2_362993_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_362993.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_692885/ispy2_692885_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_692885.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_726381/ispy2_726381_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_726381.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_795996/ispy2_795996_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_795996.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_891645/ispy2_891645_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_891645.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_202539/ispy2_202539_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_202539.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_972307/ispy2_972307_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_972307.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_296123/ispy2_296123_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_296123.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_611662/ispy2_611662_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_611662.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_313672/ispy2_313672_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_313672.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_439489/ispy2_439489_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_439489.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_241705/ispy2_241705_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_241705.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_845079/ispy2_845079_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_845079.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_247641/ispy2_247641_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_247641.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_644609/ispy2_644609_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_644609.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_552549/ispy2_552549_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_552549.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_915/duke_915_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_915.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_470/duke_470_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_470.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_567/duke_567_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_567.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_059/duke_059_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_059.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_233/duke_233_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_233.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_258/duke_258_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_258.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_663/duke_663_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_663.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 1,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_090/duke_090_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_090.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1088/ispy1_1088_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1088.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1117/ispy1_1117_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1117.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1229/ispy1_1229_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1229.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1008/ispy1_1008_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1008.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1031/ispy1_1031_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1031.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1128/ispy1_1128_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1128.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1189/ispy1_1189_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1189.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1227/ispy1_1227_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1227.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1168/ispy1_1168_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1168.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_55/nact_55_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_55.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_66/nact_66_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_66.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_04/nact_04_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_04.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_14/nact_14_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_14.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_65/nact_65_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_65.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_60/nact_60_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_60.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_57/nact_57_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_57.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_64/nact_64_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_64.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_34/nact_34_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_34.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_012/duke_012_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_012.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_298/duke_298_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_298.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_687/duke_687_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_687.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_150/duke_150_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_150.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_345/duke_345_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_345.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_686/duke_686_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_686.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_077/duke_077_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_077.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_406/duke_406_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_406.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_517/duke_517_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_517.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_045/duke_045_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_045.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_677/duke_677_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_677.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_672/duke_672_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_672.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_328/duke_328_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_328.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_115/duke_115_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_115.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_338/duke_338_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_338.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_055/duke_055_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_055.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_688955/ispy2_688955_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_688955.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_804233/ispy2_804233_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_804233.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_607843/ispy2_607843_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_607843.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_148357/ispy2_148357_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_148357.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_484894/ispy2_484894_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_484894.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_196024/ispy2_196024_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_196024.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_802308/ispy2_802308_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_802308.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_421917/ispy2_421917_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_421917.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_240432/ispy2_240432_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_240432.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_616994/ispy2_616994_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_616994.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_279902/ispy2_279902_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_279902.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_644186/ispy2_644186_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_644186.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_571995/ispy2_571995_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_571995.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_799149/ispy2_799149_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_799149.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_484867/ispy2_484867_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_484867.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_266840/ispy2_266840_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_266840.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_102212/ispy2_102212_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_102212.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_748611/ispy2_748611_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_748611.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_277848/ispy2_277848_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_277848.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_947398/ispy2_947398_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_947398.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_209967/ispy2_209967_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_209967.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_882553/ispy2_882553_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_882553.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_672734/ispy2_672734_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_672734.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_342996/ispy2_342996_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_342996.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_912836/ispy2_912836_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_912836.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_779739/ispy2_779739_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_779739.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_771443/ispy2_771443_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_771443.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_866660/ispy2_866660_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_866660.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_982086/ispy2_982086_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_982086.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_570148/ispy2_570148_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_570148.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_437968/ispy2_437968_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_437968.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_255577/ispy2_255577_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_255577.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_646233/ispy2_646233_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_646233.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_884011/ispy2_884011_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_884011.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_401215/ispy2_401215_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_401215.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_653927/ispy2_653927_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_653927.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_541165/ispy2_541165_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_541165.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_388581/ispy2_388581_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_388581.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_211408/ispy2_211408_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_211408.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_201873/ispy2_201873_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_201873.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_134526/ispy2_134526_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_134526.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_190224/ispy2_190224_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_190224.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_215932/ispy2_215932_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_215932.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_664658/ispy2_664658_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_664658.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_766967/ispy2_766967_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_766967.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_683374/ispy2_683374_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_683374.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_132463/ispy2_132463_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_132463.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_803514/ispy2_803514_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_803514.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_183831/ispy2_183831_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_183831.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_330134/ispy2_330134_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_330134.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_898618/ispy2_898618_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_898618.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_614434/ispy2_614434_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_614434.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_436371/ispy2_436371_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_436371.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_922872/ispy2_922872_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_922872.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_220664/ispy2_220664_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_220664.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_243836/ispy2_243836_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_243836.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_473468/ispy2_473468_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_473468.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_833/duke_833_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_833.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_535/duke_535_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_535.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_002/duke_002_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_002.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_468/duke_468_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_468.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_839/duke_839_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_839.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_051/duke_051_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_051.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_071/duke_071_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_071.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 2,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_539/duke_539_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_539.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1177/ispy1_1177_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1177.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1015/ispy1_1015_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1015.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1077/ispy1_1077_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1077.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1223/ispy1_1223_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1223.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1152/ispy1_1152_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1152.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1099/ispy1_1099_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1099.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1001/ispy1_1001_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1001.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1075/ispy1_1075_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1075.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1158/ispy1_1158_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1158.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1157/ispy1_1157_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1157.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_41/nact_41_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_41.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_12/nact_12_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_12.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_31/nact_31_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_31.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_63/nact_63_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_63.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_50/nact_50_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_50.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_37/nact_37_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_37.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_01/nact_01_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_01.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_30/nact_30_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_30.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_52/nact_52_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_52.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_480/duke_480_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_480.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_021/duke_021_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_021.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_061/duke_061_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_061.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_914/duke_914_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_914.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_590/duke_590_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_590.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_333/duke_333_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_333.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_790/duke_790_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_790.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_043/duke_043_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_043.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_167/duke_167_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_167.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_691/duke_691_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_691.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_597/duke_597_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_597.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_069/duke_069_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_069.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_816/duke_816_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_816.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_134/duke_134_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_134.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_301/duke_301_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_301.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_688291/ispy2_688291_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_688291.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_320538/ispy2_320538_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_320538.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_489194/ispy2_489194_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_489194.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_118307/ispy2_118307_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_118307.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_102011/ispy2_102011_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_102011.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_462582/ispy2_462582_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_462582.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_703401/ispy2_703401_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_703401.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_167271/ispy2_167271_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_167271.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_383456/ispy2_383456_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_383456.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_831848/ispy2_831848_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_831848.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_446263/ispy2_446263_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_446263.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_164468/ispy2_164468_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_164468.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_301665/ispy2_301665_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_301665.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_122795/ispy2_122795_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_122795.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_845663/ispy2_845663_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_845663.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_111004/ispy2_111004_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_111004.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_233191/ispy2_233191_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_233191.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_641977/ispy2_641977_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_641977.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_150547/ispy2_150547_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_150547.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_904269/ispy2_904269_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_904269.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_149654/ispy2_149654_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_149654.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_178815/ispy2_178815_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_178815.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_960029/ispy2_960029_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_960029.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_296841/ispy2_296841_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_296841.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_289420/ispy2_289420_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_289420.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_492612/ispy2_492612_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_492612.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_489504/ispy2_489504_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_489504.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_345574/ispy2_345574_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_345574.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_934906/ispy2_934906_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_934906.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_742477/ispy2_742477_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_742477.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_810965/ispy2_810965_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_810965.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_153880/ispy2_153880_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_153880.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_162562/ispy2_162562_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_162562.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_946927/ispy2_946927_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_946927.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_572235/ispy2_572235_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_572235.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_433144/ispy2_433144_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_433144.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_622688/ispy2_622688_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_622688.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_734997/ispy2_734997_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_734997.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_355942/ispy2_355942_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_355942.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_666715/ispy2_666715_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_666715.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_129837/ispy2_129837_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_129837.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_402265/ispy2_402265_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_402265.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_666147/ispy2_666147_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_666147.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_340186/ispy2_340186_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_340186.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_180027/ispy2_180027_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_180027.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_437162/ispy2_437162_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_437162.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_705381/ispy2_705381_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_705381.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_962153/ispy2_962153_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_962153.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_477994/ispy2_477994_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_477994.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_857165/ispy2_857165_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_857165.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_622315/ispy2_622315_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_622315.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_535779/ispy2_535779_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_535779.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_797499/ispy2_797499_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_797499.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_342142/ispy2_342142_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_342142.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_578975/ispy2_578975_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_578975.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_431061/ispy2_431061_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_431061.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_139771/ispy2_139771_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_139771.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_809/duke_809_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_809.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_543/duke_543_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_543.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_891/duke_891_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_891.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_615/duke_615_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_615.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_234/duke_234_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_234.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_660/duke_660_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_660.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_885/duke_885_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_885.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 3,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_225/duke_225_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_225.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1094/ispy1_1094_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1094.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1009/ispy1_1009_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1009.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1220/ispy1_1220_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1220.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1002/ispy1_1002_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1002.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1011/ispy1_1011_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1011.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1025/ispy1_1025_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1025.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1101/ispy1_1101_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1101.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1140/ispy1_1140_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1140.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1222/ispy1_1222_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1222.nii.gz",
+            "domain": 8
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_51/nact_51_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_51.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_61/nact_61_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_61.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_06/nact_06_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_06.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_54/nact_54_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_54.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_53/nact_53_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_53.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_08/nact_08_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_08.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_15/nact_15_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_15.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_39/nact_39_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_39.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_35/nact_35_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_35.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_36/nact_36_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_36.nii.gz",
+            "domain": 9
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_514/duke_514_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_514.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_873/duke_873_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_873.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_501/duke_501_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_501.nii.gz",
+            "domain": 13
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_060/duke_060_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_060.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_836/duke_836_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_836.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_804/duke_804_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_804.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_507/duke_507_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_507.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_899/duke_899_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_899.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_762/duke_762_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_762.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_670/duke_670_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_670.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_869/duke_869_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_869.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_107/duke_107_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_107.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_303/duke_303_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_303.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_884/duke_884_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_884.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_064/duke_064_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_064.nii.gz",
+            "domain": 14
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_553012/ispy2_553012_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_553012.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_547892/ispy2_547892_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_547892.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_570685/ispy2_570685_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_570685.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_419590/ispy2_419590_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_419590.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_208303/ispy2_208303_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_208303.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_317402/ispy2_317402_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_317402.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_774840/ispy2_774840_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_774840.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_689188/ispy2_689188_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_689188.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_465008/ispy2_465008_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_465008.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_748583/ispy2_748583_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_748583.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_847272/ispy2_847272_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_847272.nii.gz",
+            "domain": 15
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_228340/ispy2_228340_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_228340.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_630758/ispy2_630758_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_630758.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_651145/ispy2_651145_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_651145.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_930853/ispy2_930853_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_930853.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_940186/ispy2_940186_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_940186.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_153327/ispy2_153327_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_153327.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_273691/ispy2_273691_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_273691.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_220925/ispy2_220925_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_220925.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_507198/ispy2_507198_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_507198.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_284443/ispy2_284443_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_284443.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_828199/ispy2_828199_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_828199.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_913527/ispy2_913527_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_913527.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_213328/ispy2_213328_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_213328.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_949444/ispy2_949444_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_949444.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_766301/ispy2_766301_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_766301.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_899381/ispy2_899381_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_899381.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_179369/ispy2_179369_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_179369.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_814299/ispy2_814299_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_814299.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_306401/ispy2_306401_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_306401.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_627118/ispy2_627118_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_627118.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_157463/ispy2_157463_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_157463.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_111646/ispy2_111646_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_111646.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_574091/ispy2_574091_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_574091.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_328160/ispy2_328160_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_328160.nii.gz",
+            "domain": 16
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_721099/ispy2_721099_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_721099.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_515105/ispy2_515105_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_515105.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_426106/ispy2_426106_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_426106.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_203254/ispy2_203254_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_203254.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_570966/ispy2_570966_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_570966.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_369040/ispy2_369040_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_369040.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_685795/ispy2_685795_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_685795.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_930172/ispy2_930172_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_930172.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_405717/ispy2_405717_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_405717.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_208650/ispy2_208650_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_208650.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_535415/ispy2_535415_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_535415.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_997702/ispy2_997702_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_997702.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_501303/ispy2_501303_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_501303.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_209397/ispy2_209397_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_209397.nii.gz",
+            "domain": 18
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_966016/ispy2_966016_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_966016.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_999264/ispy2_999264_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_999264.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_893874/ispy2_893874_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_893874.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_862244/ispy2_862244_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_862244.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_550157/ispy2_550157_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_550157.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_300724/ispy2_300724_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_300724.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_756412/ispy2_756412_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_756412.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_198891/ispy2_198891_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_198891.nii.gz",
+            "domain": 20
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_792/duke_792_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_792.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_685/duke_685_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_685.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_874/duke_874_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_874.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_525/duke_525_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_525.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_438/duke_438_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_438.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_117/duke_117_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_117.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_255/duke_255_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_255.nii.gz",
+            "domain": 21
+        },
+        {
+            "fold": 4,
+            "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_521/duke_521_0001.nii.gz",
+            "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_521.nii.gz",
+            "domain": 21
+        }
+    ]
+}

@@ -1,0 +1,1600 @@
+{
+  "test": [
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_005/duke_005_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_005.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_019/duke_019_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_019.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_097/duke_097_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_097.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_104/duke_104_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_104.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_116/duke_116_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_116.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_119/duke_119_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_119.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_132/duke_132_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_132.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_141/duke_141_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_141.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_156/duke_156_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_156.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_180/duke_180_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_180.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_183/duke_183_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_183.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_192/duke_192_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_192.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_198/duke_198_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_198.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_202/duke_202_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_202.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_217/duke_217_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_217.nii.gz",
+      "domain": 14,
+      "manufacturer": "GE",
+      "scanner_model": "SIGNA HDx"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_237/duke_237_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_237.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_250/duke_250_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_250.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_253/duke_253_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_253.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_256/duke_256_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_256.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_265/duke_265_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_265.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_269/duke_269_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_269.nii.gz",
+      "domain": 14,
+      "manufacturer": "GE",
+      "scanner_model": "SIGNA HDx"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_271/duke_271_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_271.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_283/duke_283_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_283.nii.gz",
+      "domain": 21,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_293/duke_293_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_293.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_321/duke_321_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_321.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_323/duke_323_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_323.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_356/duke_356_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_356.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_363/duke_363_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_363.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_368/duke_368_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_368.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_395/duke_395_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_395.nii.gz",
+      "domain": 21,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_397/duke_397_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_397.nii.gz",
+      "domain": 21,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_398/duke_398_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_398.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_399/duke_399_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_399.nii.gz",
+      "domain": 14,
+      "manufacturer": "GE",
+      "scanner_model": "SIGNA HDx"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_420/duke_420_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_420.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_428/duke_428_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_428.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_454/duke_454_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_454.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_465/duke_465_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_465.nii.gz",
+      "domain": 13,
+      "manufacturer": "GE",
+      "scanner_model": "Optima MR450w"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_489/duke_489_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_489.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_506/duke_506_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_506.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_508/duke_508_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_508.nii.gz",
+      "domain": 13,
+      "manufacturer": "GE",
+      "scanner_model": "Optima MR450w"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_527/duke_527_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_527.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_541/duke_541_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_541.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_558/duke_558_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_558.nii.gz",
+      "domain": 21,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_607/duke_607_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_607.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_610/duke_610_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_610.nii.gz",
+      "domain": 14,
+      "manufacturer": "GE",
+      "scanner_model": "SIGNA HDx"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_612/duke_612_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_612.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_614/duke_614_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_614.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_641/duke_641_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_641.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_642/duke_642_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_642.nii.gz",
+      "domain": 21,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_645/duke_645_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_645.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_650/duke_650_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_650.nii.gz",
+      "domain": 14,
+      "manufacturer": "GE",
+      "scanner_model": "SIGNA HDx"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_651/duke_651_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_651.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_662/duke_662_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_662.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_688/duke_688_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_688.nii.gz",
+      "domain": 13,
+      "manufacturer": "GE",
+      "scanner_model": "Optima MR450w"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_697/duke_697_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_697.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_710/duke_710_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_710.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_718/duke_718_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_718.nii.gz",
+      "domain": 26,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "TrioTim"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_725/duke_725_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_725.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_746/duke_746_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_746.nii.gz",
+      "domain": 14,
+      "manufacturer": "GE",
+      "scanner_model": "SIGNA HDx"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_754/duke_754_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_754.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_757/duke_757_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_757.nii.gz",
+      "domain": 21,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_758/duke_758_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_758.nii.gz",
+      "domain": 14,
+      "manufacturer": "GE",
+      "scanner_model": "SIGNA HDx"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_776/duke_776_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_776.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_799/duke_799_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_799.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_822/duke_822_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_822.nii.gz",
+      "domain": 13,
+      "manufacturer": "GE",
+      "scanner_model": "Optima MR450w"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_830/duke_830_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_830.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_832/duke_832_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_832.nii.gz",
+      "domain": 14,
+      "manufacturer": "GE",
+      "scanner_model": "SIGNA HDx"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_879/duke_879_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_879.nii.gz",
+      "domain": 14,
+      "manufacturer": "GE",
+      "scanner_model": "SIGNA HDx"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_886/duke_886_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_886.nii.gz",
+      "domain": 22,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Skyra"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_907/duke_907_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_907.nii.gz",
+      "domain": 5,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/DUKE_916/duke_916_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/duke_916.nii.gz",
+      "domain": 21,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1017/ispy1_1017_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1017.nii.gz",
+      "domain": 8,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1041/ispy1_1041_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1041.nii.gz",
+      "domain": 8,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1061/ispy1_1061_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1061.nii.gz",
+      "domain": 8,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1062/ispy1_1062_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1062.nii.gz",
+      "domain": 8,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1078/ispy1_1078_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1078.nii.gz",
+      "domain": 8,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1127/ispy1_1127_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1127.nii.gz",
+      "domain": 8,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1135/ispy1_1135_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1135.nii.gz",
+      "domain": 8,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1185/ispy1_1185_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1185.nii.gz",
+      "domain": 8,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1239/ispy1_1239_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1239.nii.gz",
+      "domain": 8,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_115638/ispy2_115638_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_115638.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_117707/ispy2_117707_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_117707.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_129973/ispy2_129973_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_129973.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_138425/ispy2_138425_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_138425.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_156163/ispy2_156163_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_156163.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_169536/ispy2_169536_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_169536.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_180663/ispy2_180663_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_180663.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_197942/ispy2_197942_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_197942.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_223030/ispy2_223030_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_223030.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_241998/ispy2_241998_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_241998.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_242370/ispy2_242370_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_242370.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_254273/ispy2_254273_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_254273.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_255078/ispy2_255078_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_255078.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_282082/ispy2_282082_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_282082.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_282777/ispy2_282777_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_282777.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_290413/ispy2_290413_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_290413.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_291515/ispy2_291515_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_291515.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_323721/ispy2_323721_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_323721.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_332655/ispy2_332655_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_332655.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_335536/ispy2_335536_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_335536.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_341238/ispy2_341238_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_341238.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_345483/ispy2_345483_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_345483.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_348009/ispy2_348009_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_348009.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_350331/ispy2_350331_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_350331.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_356684/ispy2_356684_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_356684.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_373346/ispy2_373346_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_373346.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_373672/ispy2_373672_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_373672.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_396723/ispy2_396723_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_396723.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_406190/ispy2_406190_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_406190.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_408692/ispy2_408692_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_408692.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_411950/ispy2_411950_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_411950.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_413961/ispy2_413961_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_413961.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_416434/ispy2_416434_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_416434.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_422454/ispy2_422454_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_422454.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_442669/ispy2_442669_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_442669.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_443444/ispy2_443444_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_443444.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_459311/ispy2_459311_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_459311.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_461824/ispy2_461824_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_461824.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_462581/ispy2_462581_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_462581.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_464547/ispy2_464547_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_464547.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_494022/ispy2_494022_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_494022.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_494946/ispy2_494946_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_494946.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_497010/ispy2_497010_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_497010.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_503034/ispy2_503034_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_503034.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_516834/ispy2_516834_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_516834.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_527320/ispy2_527320_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_527320.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_527581/ispy2_527581_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_527581.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_528479/ispy2_528479_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_528479.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_528833/ispy2_528833_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_528833.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_530095/ispy2_530095_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_530095.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_531672/ispy2_531672_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_531672.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_568953/ispy2_568953_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_568953.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_571276/ispy2_571276_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_571276.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_586207/ispy2_586207_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_586207.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_590220/ispy2_590220_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_590220.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_602943/ispy2_602943_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_602943.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_604199/ispy2_604199_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_604199.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_614044/ispy2_614044_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_614044.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_631337/ispy2_631337_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_631337.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_637051/ispy2_637051_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_637051.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_651401/ispy2_651401_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_651401.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_661730/ispy2_661730_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_661730.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_676630/ispy2_676630_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_676630.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_683173/ispy2_683173_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_683173.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_683896/ispy2_683896_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_683896.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_685182/ispy2_685182_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_685182.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_695521/ispy2_695521_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_695521.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_700549/ispy2_700549_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_700549.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_708387/ispy2_708387_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_708387.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_711476/ispy2_711476_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_711476.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_712276/ispy2_712276_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_712276.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_724384/ispy2_724384_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_724384.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_728287/ispy2_728287_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_728287.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_746731/ispy2_746731_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_746731.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_752372/ispy2_752372_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_752372.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_752469/ispy2_752469_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_752469.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_769972/ispy2_769972_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_769972.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_771151/ispy2_771151_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_771151.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_783764/ispy2_783764_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_783764.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_783771/ispy2_783771_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_783771.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_790070/ispy2_790070_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_790070.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_791321/ispy2_791321_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_791321.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_800710/ispy2_800710_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_800710.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_802105/ispy2_802105_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_802105.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_823618/ispy2_823618_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_823618.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_825363/ispy2_825363_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_825363.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_829491/ispy2_829491_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_829491.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_833536/ispy2_833536_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_833536.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_849605/ispy2_849605_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_849605.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_851180/ispy2_851180_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_851180.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_851223/ispy2_851223_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_851223.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_860243/ispy2_860243_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_860243.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_870077/ispy2_870077_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_870077.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_883886/ispy2_883886_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_883886.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_885590/ispy2_885590_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_885590.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_890414/ispy2_890414_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_890414.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_895653/ispy2_895653_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_895653.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_910188/ispy2_910188_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_910188.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_910706/ispy2_910706_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_910706.nii.gz",
+      "domain": 27,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Verio"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_924868/ispy2_924868_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_924868.nii.gz",
+      "domain": 2,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_928170/ispy2_928170_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_928170.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_930903/ispy2_930903_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_930903.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_943633/ispy2_943633_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_943633.nii.gz",
+      "domain": 15,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_944419/ispy2_944419_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_944419.nii.gz",
+      "domain": 16,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_962827/ispy2_962827_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_962827.nii.gz",
+      "domain": 18,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_974181/ispy2_974181_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_974181.nii.gz",
+      "domain": 3,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Avanto"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_982505/ispy2_982505_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_982505.nii.gz",
+      "domain": 24,
+      "manufacturer": "SIEMENS",
+      "scanner_model": "Symphony"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_999733/ispy2_999733_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_999733.nii.gz",
+      "domain": 20,
+      "manufacturer": "GE",
+      "scanner_model": "Signa HDxt"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_09/nact_09_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_09.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_18/nact_18_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_18.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_24/nact_24_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_24.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_25/nact_25_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_25.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_27/nact_27_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_27.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_32/nact_32_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_32.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_43/nact_43_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_43.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_47/nact_47_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_47.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_67/nact_67_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_67.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/NACT_68/nact_68_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/nact_68.nii.gz",
+      "domain": 9,
+      "manufacturer": "GE",
+      "scanner_model": "GENESIS_SIGNA"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_928446/ispy2_928446_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_928446.nii.gz",
+      "domain": 1,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_597253/ispy2_597253_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_597253.nii.gz",
+      "domain": null,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_861745/ispy2_861745_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_861745.nii.gz",
+      "domain": 0,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_697871/ispy2_697871_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_697871.nii.gz",
+      "domain": null,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_420523/ispy2_420523_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_420523.nii.gz",
+      "domain": null,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_442637/ispy2_442637_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_442637.nii.gz",
+      "domain": 0,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_981461/ispy2_981461_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_981461.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_875089/ispy2_875089_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_875089.nii.gz",
+      "domain": null,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_572793/ispy2_572793_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_572793.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY1_1165/ispy1_1165_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy1_1165.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_285339/ispy2_285339_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_285339.nii.gz",
+      "domain": null,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_663197/ispy2_663197_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_663197.nii.gz",
+      "domain": 0,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_335091/ispy2_335091_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_335091.nii.gz",
+      "domain": null,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_584561/ispy2_584561_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_584561.nii.gz",
+      "domain": null,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_550421/ispy2_550421_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_550421.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_839274/ispy2_839274_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_839274.nii.gz",
+      "domain": 1,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_122287/ispy2_122287_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_122287.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_228192/ispy2_228192_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_228192.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_906795/ispy2_906795_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_906795.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_257735/ispy2_257735_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_257735.nii.gz",
+      "domain": 0,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_835658/ispy2_835658_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_835658.nii.gz",
+      "domain": 0,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_918979/ispy2_918979_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_918979.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_745633/ispy2_745633_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_745633.nii.gz",
+      "domain": 0,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_987995/ispy2_987995_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_987995.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_830486/ispy2_830486_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_830486.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_414971/ispy2_414971_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_414971.nii.gz",
+      "domain": 0,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_489973/ispy2_489973_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_489973.nii.gz",
+      "domain": 0,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_587388/ispy2_587388_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_587388.nii.gz",
+      "domain": null,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_790397/ispy2_790397_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_790397.nii.gz",
+      "domain": 10,
+      "manufacturer": "Philips",
+      "scanner_model": "Intera"
+    },
+    {
+      "image": "/container_workspace/raw_data/MAMA_MIA/images/ISPY2_343898/ispy2_343898_0001.nii.gz",
+      "label": "/container_workspace/raw_data/MAMA_MIA/segmentations/filledholes/ispy2_343898.nii.gz",
+      "domain": null,
+      "manufacturer": "Philips",
+      "scanner_model": "Achieva"
+    }
+  ]
+}
