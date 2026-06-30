@@ -13,10 +13,6 @@ We tackle a practical deployment problem: a breast MRI lesion segmentation model
 * **Built on MONAI + PyTorch Lightning** — 3D U-Net backbone, configurable patch size, AdamW
 * **Validated on MAMA-MIA** — 1,219 cases spanning GE, Siemens, and Philips scanners across four public cohorts (DUKE, ISPY1, ISPY2, NACT)
 
-## 📊 Headline Result
-
-When a new Philips scanner appears mid-deployment, one CL cycle lifts Philips Dice from **0.726 → 0.836** (Wilcoxon p = 0.0019), while GE and Siemens performance stays stable (BWT = −0.014) — adaptation to the new domain without forgetting the old ones.
-
 ## 📁 Repository Structure
 
 ```
@@ -65,7 +61,7 @@ Paths marked `# EDIT THESE PATHS` at the top of each script need to point to you
 
 ## 💾 Checkpoints
 
-`.ckpt` files are too large for git and are distributed via [GitHub Releases](../../releases) — see `checkpoints/README.md` for download links and what each checkpoint corresponds to.
+`.ckpt are distributed via [GitHub Releases](../../releases) — see `checkpoints/README.md` for download links and what each checkpoint corresponds to.
 
 ## 📦 Dataset
 
