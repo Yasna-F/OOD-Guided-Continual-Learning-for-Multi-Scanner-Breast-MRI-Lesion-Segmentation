@@ -63,6 +63,5 @@ python collect_assignments.py --retrain_json <retrain_json> --assignments <a1.js
 ## Tips
 
 - Features must use the **same preprocessing as training**.
-- Buffer K = 16 is the value used in the paper (~10% of original).
 - Evaluate **per scanner**, not aggregated.
 - Next cycles: features from the step-1 model (fixed); discriminability from the latest checkpoint.
