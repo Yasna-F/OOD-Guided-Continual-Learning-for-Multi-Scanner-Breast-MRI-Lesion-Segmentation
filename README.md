@@ -10,7 +10,7 @@ We tackle a practical deployment problem: a breast MRI lesion segmentation model
 * **Unsupervised pseudo-domain discovery** — agglomerative clustering (Ward linkage, silhouette-gated) groups OOD patients into coherent new subgroups
 * **Multi-criteria buffer selection** — representativeness, diversity, and discriminability scoring selects a compact rehearsal buffer to prevent catastrophic forgetting
 * **5-stage modular pipeline** — feature extraction → OOD detection → buffer scoring → cycle JSON construction → fine-tuning, each runnable independently
-* **Built on MONAI + PyTorch Lightning** — 3D U-Net backbone, configurable patch size, AdamW + CosineAnnealingLR
+* **Built on MONAI + PyTorch Lightning** — 3D U-Net backbone, configurable patch size, AdamW
 * **Validated on MAMA-MIA** — 1,219 cases spanning GE, Siemens, and Philips scanners across four public cohorts (DUKE, ISPY1, ISPY2, NACT)
 
 ## 📊 Headline Result
